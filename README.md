@@ -4,4 +4,5 @@
 
 
 > Criticism is the main thing which motivates us to learn quickly.
-** Rather than mocking someone's success,learn how to get inspired from their success. **
+
+1. Rather than mocking someone's success,learn how to get inspired from their success.
